@@ -52,7 +52,7 @@ public class NewTest {
 
 	  //initialize FirefoxDriver at the start of test
 	  webDriver = new ChromeDriver();  
-	  //123
+	  
   }
 
   @AfterTest
